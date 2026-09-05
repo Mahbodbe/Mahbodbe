@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/University-Amirkabir%20University%20of%20Technology%20(Tehran%20Polytechnic)-003366?style=for-the-badge&logo=academic&logoColor=white" alt="AUT" />
   <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-black?style=for-the-badge&logo=google-maps&logoColor=red" alt="Location" />
+  <a href="https://nomoreidea.ir"><img src="https://img.shields.io/badge/Website-nomoreidea.ir-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
@@ -93,6 +94,25 @@ I am an **Electrical Engineering student at Amirkabir University of Technology (
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Mahbodbe/goose-lab">goose-lab</a></h3>
+      <p>GOOSE/IEC 61850 protocol analyzer in Python -- raw-frame parsing (EtherType 0x88B8, stNum/sqNum), multicast latency lab, and substation topology graphs from SCL files.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SCADA-IEC%2061850-1F4E79?style=flat-square" />
+        <img src="https://img.shields.io/badge/Protocol-Research-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://nomoreidea.ir">nomoreidea</a></h3>
+      <p>Personal portfolio site -- live index of EE projects wired directly to GitHub, with bilingual EN/FA interface and automatic repo cards.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Live-nomoreidea.ir-38BDF8?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -106,6 +126,20 @@ I am an **Electrical Engineering student at Amirkabir University of Technology (
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbodbe&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django%20Backend-Quera%20College-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Front--End-Quera%20College-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Front-End" />
+  <img src="https://img.shields.io/badge/Telegram%20Bots-Quera%20College-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/Algorithms%20&%20Data%20Structures-Quera%20College-orange?style=flat-square" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Applied%20Linux-Quera%20College-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Practical%20Git-Quera%20College-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-AUT%20Scientific%20Association-1F4E79?style=flat-square" alt="Altium" />
 </p>
 
 ---

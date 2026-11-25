@@ -1,157 +1,158 @@
-# Hi there, I'm Mahbod 👋
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Electrical+Engineering+Student+%40+AUT;Embedded+Systems+%26+Firmware+Developer;Qt+%2F+Modern+C%2B%2B+GUI+Architect;SCADA+%26+Power+Utility+Automation+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" alt="Mahbod BemaniCham — Electrical Engineering @ AUT" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Amirkabir%20University%20of%20Technology%20(Tehran%20Polytechnic)-003366?style=for-the-badge&logo=academic&logoColor=white" alt="AUT" />
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-black?style=for-the-badge&logo=google-maps&logoColor=red" alt="Location" />
-  <a href="https://nomoreidea.ir"><img src="https://img.shields.io/badge/Website-nomoreidea.ir-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://nomoreidea.ir"><img src="https://img.shields.io/badge/Portfolio-nomoreidea.ir-38BDF8?style=for-the-badge&labelColor=0B1120&logo=safari&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://github.com/Mahbodbe?tab=repositories"><img src="https://img.shields.io/badge/Projects-17%20Public%20Repos-34D399?style=for-the-badge&labelColor=0B1120&logo=github&logoColor=34D399" alt="Repositories" /></a>
+  <img src="https://img.shields.io/badge/AUT-Electrical%20Engineering-818CF8?style=for-the-badge&labelColor=0B1120&logo=googlescholar&logoColor=818CF8" alt="AUT EE" />
 </p>
 
----
-
-### 🚀 Tech Stack & Tooling
+<br/>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/VHDL-8A2BE2?style=flat-square" alt="VHDL" />
-  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square" alt="Assembly" />
-  <!-- Embedded & Hardware -->
-  <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/AVR%20%2F%20ATmega-00599C?style=flat-square&logo=microchip&logoColor=white" alt="AVR" />
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Proteus-1A5276?style=flat-square" alt="Proteus" />
-  <!-- GUI & Frameworks -->
-  <img src="https://img.shields.io/badge/Qt%205%20%2F%206-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />
-  <img src="https://img.shields.io/badge/QML%20%2F%20QtQuick-41CD52?style=flat-square&logo=qt&logoColor=white" alt="QML" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <!-- DevOps & Protocols -->
-  <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SCADA-IEC%2061850%20%7C%20104%20%7C%20DNP3-1F4E79?style=flat-square" alt="SCADA" />
+  <img src="./assets/stack.svg" alt="Engineering Stack — Silicon to Interface" width="100%" />
 </p>
 
----
+<br/>
 
-## 💡 About Me
+<p align="center">
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
 
-I am an **Electrical Engineering student at Amirkabir University of Technology (Tehran Polytechnic)** with a strong focus on bridging the gap between low-level hardware and high-level software systems.
-
-- ⚡ **Embedded Systems & Firmware**: Microcontroller programming (ESP32-S3, AVR/ATmega), sensor-actuator integration, custom communication protocols.
-- 🖥️ **Desktop GUI Architecture**: Crafting modern, high-performance desktop apps with modern C++ (17/20), Qt Widgets, custom QSS Dark Themes, and QML.
-- ⚡ **Power Systems & Industrial Automation**: Deep interest in SCADA architectures, telemetry protocols (IEC 60870-5-101/104, IEC 61850, DNP3), Substation Automation Systems (SAS), and digital substations.
-- 🌐 **Backend & Systems Engineering**: Full-stack services with Django, Celery asynchronous task queues, Redis, and Telegram Bot APIs.
-
----
-
-## 🌟 Featured Repositories
+## Selected Engineering Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/Mahbodbe/Qt-Deep-Dive">Qt-Deep-Dive</a></h3>
-      <p>A comprehensive, 14-chapter practical journey into production-grade Qt (C++) and QML architecture based on <i>Mastering Qt 5</i> with modern C++17/20 refactoring and custom neon dark QSS themes.</p>
+      <h3>🛡️ <a href="https://github.com/Mahbodbe/snort3-windows">snort3-windows</a></h3>
+      <p>Windows integration and reproducible build environment for <b>Snort 3</b> and <b>LibDAQ</b> — bridging Npcap, native toolchains, and high-speed packet inspection on Windows.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Qt-Widgets%20%26%20QML-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bilingual-EN%20%2F%20FA-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Snort%203-IDS-38BDF8?style=flat-square&labelColor=0B1120" alt="Snort 3" />
+        <img src="https://img.shields.io/badge/LibDAQ-Npcap-34D399?style=flat-square&labelColor=0B1120" alt="LibDAQ" />
+        <img src="https://img.shields.io/badge/Network-Security-818CF8?style=flat-square&labelColor=0B1120" alt="Network Security" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🅿️ <a href="https://github.com/Mahbodbe/smart-parking">smart-parking</a></h3>
-      <p>Intelligent parking management and automation system powered by ESP32-S3, ultrasonic / IR sensor arrays, real-time status LCD displays, servo barrier control, and telemetry synchronization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Hardware-ESP32--S3-red?style=flat-square" />
-        <img src="https://img.shields.io/badge/C%2B%2B-Embedded-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Team-Collaboration-blueviolet?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Mahbodbe/DoorLock">DoorLock</a></h3>
-      <p>RFID-based security access control system developed with <b>ATmega32</b> and <b>MFRC522</b>. Features hardware password verification, alphanumeric LCD UI, EEPROM storage, buzzer alarms, and Proteus simulation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Microcontroller-ATmega32-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Language-Embedded%20C%20%2F%20Asm-525252?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/Mahbodbe/VHDL-Learning-Project">VHDL & Digital Logic</a></h3>
-      <p>Digital hardware design and FPGA modeling with VHDL. Covers Finite State Machines (FSMs), counters, multiplexers, sequential logic, and Hamming error correction (<a href="https://github.com/Mahbodbe/HammingProject">HammingProject</a>).</p>
-      <p>
-        <img src="https://img.shields.io/badge/HDL-VHDL-8A2BE2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Domain-Digital%20Design-yellow?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/Mahbodbe/goose-lab">goose-lab</a></h3>
-      <p>GOOSE/IEC 61850 protocol analyzer in Python -- raw-frame parsing (EtherType 0x88B8, stNum/sqNum), multicast latency lab, and substation topology graphs from SCL files.</p>
+      <p><b>GOOSE / IEC 61850</b> protocol analyzer in Python — raw Ethernet frame parsing (<code>0x88B8</code>, <code>stNum</code>/<code>sqNum</code>), multicast latency experiments, and SCL substation topology graphs.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SCADA-IEC%2061850-1F4E79?style=flat-square" />
-        <img src="https://img.shields.io/badge/Protocol-Research-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/IEC%2061850-GOOSE-38BDF8?style=flat-square&labelColor=0B1120" alt="IEC 61850" />
+        <img src="https://img.shields.io/badge/SCADA-SAS-34D399?style=flat-square&labelColor=0B1120" alt="SCADA" />
+        <img src="https://img.shields.io/badge/Python-Analyzer-818CF8?style=flat-square&labelColor=0B1120" alt="Python" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/Mahbodbe/Qt-Deep-Dive">Qt-Deep-Dive</a></h3>
+      <p>14-chapter hands-on study series on production <b>Qt 5/6</b> and <b>QML</b> architecture, refactored with modern C++17/20 idioms and custom dark QSS themes. Bilingual <b>EN / FA</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-17%2F20-38BDF8?style=flat-square&labelColor=0B1120" alt="C++" />
+        <img src="https://img.shields.io/badge/Qt-Widgets%20%26%20QML-34D399?style=flat-square&labelColor=0B1120" alt="Qt" />
+        <img src="https://img.shields.io/badge/Bilingual-EN%20%2F%20FA-818CF8?style=flat-square&labelColor=0B1120" alt="Bilingual" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://nomoreidea.ir">nomoreidea</a></h3>
-      <p>Personal portfolio site -- live index of EE projects wired directly to GitHub, with bilingual EN/FA interface and automatic repo cards.</p>
+      <h3>🔬 <a href="https://github.com/Mahbodbe/HammingProject">HammingProject</a></h3>
+      <p>RTL <b>VHDL packet processor</b> implementing single-error-correcting <b>Hamming ECC</b>, verified end-to-end with testbenches in ModelSim. Paired with <a href="https://github.com/Mahbodbe/VHDL-Learning-Project">VHDL-Learning-Project</a>.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Live-nomoreidea.ir-38BDF8?style=flat-square" />
+        <img src="https://img.shields.io/badge/HDL-VHDL-38BDF8?style=flat-square&labelColor=0B1120" alt="VHDL" />
+        <img src="https://img.shields.io/badge/FPGA-RTL%20Design-34D399?style=flat-square&labelColor=0B1120" alt="FPGA" />
+        <img src="https://img.shields.io/badge/ECC-Hamming-818CF8?style=flat-square&labelColor=0B1120" alt="ECC" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🅿️ <a href="https://github.com/Mahbodbe/smart-parking">smart-parking</a></h3>
+      <p><b>ESP32-S3</b> smart parking controller featuring ultrasonic/IR sensing, servo barrier actuation, real-time LCD status display, and telemetry sync (AUT EE project).</p>
+      <p>
+        <img src="https://img.shields.io/badge/MCU-ESP32--S3-38BDF8?style=flat-square&labelColor=0B1120" alt="ESP32-S3" />
+        <img src="https://img.shields.io/badge/Firmware-C%2B%2B-34D399?style=flat-square&labelColor=0B1120" alt="C++" />
+        <img src="https://img.shields.io/badge/IoT-Telemetry-818CF8?style=flat-square&labelColor=0B1120" alt="IoT" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/Mahbodbe/nomoreidea">nomoreidea.ir</a></h3>
+      <p>Personal EE portfolio site wired directly to the GitHub API — live repository cards, bilingual EN/FA interface, and curated hardware/software index.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Web-JavaScript-38BDF8?style=flat-square&labelColor=0B1120" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Live-nomoreidea.ir-34D399?style=flat-square&labelColor=0B1120" alt="Live" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<details>
+  <summary><b>More Hardware, Systems &amp; Coursework Repositories</b></summary>
+  <br/>
 
-## 📊 GitHub Analytics
+| Repository | Focus | Stack |
+| :--- | :--- | :--- |
+| [**DoorLock**](https://github.com/Mahbodbe/DoorLock) | Smart RFID door-lock system (MFRC522, PIR, ESP32) — phased hardware build | `ESP32` · `RFID` · `Embedded` |
+| [**Logic-Circuit-C**](https://github.com/Mahbodbe/Logic-Circuit-C) | ATmega32 embedded-C exercises (7-seg, keypad, LCD) with Proteus simulations | `ATmega32` · `AVR` · `Proteus` |
+| [**AP1405**](https://github.com/Mahbodbe/AP1405) | Advanced Programming course projects — AUT EE, Spring 1405 | `C++23` · `Python` · `Algorithms` |
+| [**Learning-Qt**](https://github.com/Mahbodbe/Learning-Qt) | Qt5/Qt6 C++ GUI practice projects and interactive examples | `C++` · `Qt` · `GUI` |
+| [**sale-bot**](https://github.com/Mahbodbe/sale-bot) | Telegram sales automation bot with order tracking and admin panel | `Python` · `Telegram API` |
+
+</details>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahbodbe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahbodbe&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+## Tooling & Telemetry
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-0B1120?style=flat-square&logo=c&logoColor=38BDF8" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B23-0B1120?style=flat-square&logo=cplusplus&logoColor=38BDF8" alt="C++23" />
+  <img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=34D399" alt="Python" />
+  <img src="https://img.shields.io/badge/VHDL-0B1120?style=flat-square&logo=amd&logoColor=818CF8" alt="VHDL" />
+  <img src="https://img.shields.io/badge/ESP32--S3-0B1120?style=flat-square&logo=espressif&logoColor=38BDF8" alt="ESP32-S3" />
+  <img src="https://img.shields.io/badge/AVR%20%2F%20ATmega-0B1120?style=flat-square&logo=microchip&logoColor=34D399" alt="AVR" />
+  <img src="https://img.shields.io/badge/Qt%20%2F%20QML-0B1120?style=flat-square&logo=qt&logoColor=34D399" alt="Qt" />
+  <img src="https://img.shields.io/badge/Django-0B1120?style=flat-square&logo=django&logoColor=34D399" alt="Django" />
+  <img src="https://img.shields.io/badge/Redis-0B1120?style=flat-square&logo=redis&logoColor=38BDF8" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-0B1120?style=flat-square&logo=celery&logoColor=34D399" alt="Celery" />
+  <img src="https://img.shields.io/badge/Linux-0B1120?style=flat-square&logo=linux&logoColor=38BDF8" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-0B1120?style=flat-square&logo=git&logoColor=38BDF8" alt="Git" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-0B1120?style=flat-square&logo=altiumdesigner&logoColor=818CF8" alt="Altium" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbodbe&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahbodbe&show_icons=true&bg_color=0B1120&title_color=38BDF8&icon_color=34D399&text_color=CBD5E1&border_color=1E293B&border_radius=12" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mahbodbe&layout=compact&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B&border_radius=12" width="48%" alt="Top Languages" />
 </p>
 
----
-
-## 📜 Certifications
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Django%20Backend-Quera%20College-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Front--End-Quera%20College-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Front-End" />
-  <img src="https://img.shields.io/badge/Telegram%20Bots-Quera%20College-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots" />
-  <img src="https://img.shields.io/badge/Algorithms%20&%20Data%20Structures-Quera%20College-orange?style=flat-square" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Applied%20Linux-Quera%20College-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Practical%20Git-Quera%20College-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-AUT%20Scientific%20Association-1F4E79?style=flat-square" alt="Altium" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbodbe&bg_color=0B1120&color=94A3B8&line=38BDF8&point=34D399&area=true&area_color=38BDF8&border_color=1E293B&radius=12" width="97%" alt="GitHub Activity Graph" />
 </p>
 
----
+<details>
+  <summary><b>Certifications &amp; Training</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Altium%20Designer-AUT%20Scientific%20Association-818CF8?style=flat-square&labelColor=0B1120" alt="Altium Designer" />
+    <img src="https://img.shields.io/badge/Django%20Backend-Quera%20College-34D399?style=flat-square&labelColor=0B1120" alt="Django Backend" />
+    <img src="https://img.shields.io/badge/Algorithms%20%26%20DS-Quera%20College-38BDF8?style=flat-square&labelColor=0B1120" alt="Algorithms" />
+    <img src="https://img.shields.io/badge/Applied%20Linux-Quera%20College-34D399?style=flat-square&labelColor=0B1120" alt="Applied Linux" />
+    <img src="https://img.shields.io/badge/Front--End-Quera%20College-38BDF8?style=flat-square&labelColor=0B1120" alt="Front-End" />
+    <img src="https://img.shields.io/badge/Telegram%20Bots-Quera%20College-818CF8?style=flat-square&labelColor=0B1120" alt="Telegram Bots" />
+    <img src="https://img.shields.io/badge/Practical%20Git-Quera%20College-34D399?style=flat-square&labelColor=0B1120" alt="Practical Git" />
+  </p>
+</details>
 
-## 🎯 Engineering Philosophy
-
-> *"The most effective way to understand complex engineering systems is to build them from the silicon up to the user interface."*
-
-I focus on craftsmanship, writing clean and self-documenting code, understanding the physical layers underneath the abstractions, and continuously raising the bar through iterative improvement.
-
----
+<br/>
 
 <p align="center">
-  ⭐ <i>Always open to discussions on Embedded Firmware, Qt/C++ Architecture, Industrial Automation, and Open-Source Collaboration.</i>
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</p>
+
+<p align="center">
+  <sub><i>"The most effective way to understand complex engineering systems is to build them from the silicon up to the user interface."</i></sub>
+  <br/>
+  <sub>Open to collaboration on <b>Embedded Firmware</b> · <b>Qt / C++</b> · <b>SCADA &amp; IEC 61850</b> · <b>Network Security</b></sub>
 </p>

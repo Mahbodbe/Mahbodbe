@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 248" width="100%" role="img" aria-label="Engineering Stack — Silicon to Interface">
+  <defs>
+    <linearGradient id="busGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#34D399"/>
+    </linearGradient>
+    <clipPath id="stackClip">
+      <rect x="1" y="1" width="848" height="246" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+    .nodePulse { animation: np 2.8s ease-in-out infinite; }
+    .nodePulse2 { animation: np 2.8s ease-in-out 0.7s infinite; }
+    .nodePulse3 { animation: np 2.8s ease-in-out 1.4s infinite; }
+    .nodePulse4 { animation: np 2.8s ease-in-out 2.1s infinite; }
+    @keyframes np {
+      0%, 100% { opacity: 0.45; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <g clip-path="url(#stackClip)">
+    <rect x="0" y="0" width="850" height="248" fill="#0B1120"/>
+
+    <!-- Header Strip -->
+    <rect x="0" y="0" width="850" height="34" fill="#0F172A"/>
+    <line x1="0" y1="34" x2="850" y2="34" stroke="#1E293B" stroke-width="1"/>
+    <text x="22" y="21" class="mono" font-size="11" fill="#94A3B8" letter-spacing="1">ARCHITECTURE // SILICON → INTERFACE</text>
+    <text x="828" y="21" text-anchor="end" class="mono" font-size="10.5" fill="#475569">4 LAYERS · FULL VERTICAL</text>
+
+    <!-- Vertical Signal Bus -->
+    <line x1="42" y1="58" x2="42" y2="218" stroke="url(#busGrad)" stroke-width="2" stroke-dasharray="4 3"/>
+
+    <!-- L3: GUI & Backend -->
+    <g transform="translate(0, 46)">
+      <circle cx="42" cy="18" r="5" fill="#38BDF8" class="nodePulse"/>
+      <rect x="64" y="0" width="762" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+      <text x="80" y="23" class="mono" font-size="11.5" font-weight="700" fill="#38BDF8">L3 · SYSTEMS &amp; UI</text>
+      <text x="242" y="23" class="sans" font-size="12.5" fill="#E2E8F0">Modern C++ (17/20/23), Qt 5/6 &amp; QML, Custom QSS, Python, Django, Redis, Celery</text>
+    </g>
+
+    <!-- L2: Protocols & NetSec -->
+    <g transform="translate(0, 96)">
+      <circle cx="42" cy="18" r="5" fill="#2DD4BF" class="nodePulse2"/>
+      <rect x="64" y="0" width="762" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+      <text x="80" y="23" class="mono" font-size="11.5" font-weight="700" fill="#2DD4BF">L2 · SCADA &amp; NETSEC</text>
+      <text x="242" y="23" class="sans" font-size="12.5" fill="#E2E8F0">IEC 61850 (GOOSE / SCL), IEC 60870-5-104, DNP3, Snort 3 / LibDAQ on Windows, Linux</text>
+    </g>
+
+    <!-- L1: Firmware & MCU -->
+    <g transform="translate(0, 146)">
+      <circle cx="42" cy="18" r="5" fill="#34D399" class="nodePulse3"/>
+      <rect x="64" y="0" width="762" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+      <text x="80" y="23" class="mono" font-size="11.5" font-weight="700" fill="#34D399">L1 · EMBEDDED MCU</text>
+      <text x="242" y="23" class="sans" font-size="12.5" fill="#E2E8F0">ESP32-S3, ATmega32 / AVR, Embedded C &amp; Assembly, RFID / Sensors, Proteus, Altium</text>
+    </g>
+
+    <!-- L0: Silicon & RTL -->
+    <g transform="translate(0, 196)">
+      <circle cx="42" cy="18" r="5" fill="#818CF8" class="nodePulse4"/>
+      <rect x="64" y="0" width="762" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+      <text x="80" y="23" class="mono" font-size="11.5" font-weight="700" fill="#A5B4FC">L0 · DIGITAL &amp; RTL</text>
+      <text x="242" y="23" class="sans" font-size="12.5" fill="#E2E8F0">VHDL, FPGA Modeling, FSMs, Packet Processors, Hamming ECC, ModelSim Verification</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="848" height="246" rx="14" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+</svg>

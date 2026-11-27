@@ -128,7 +128,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbodbe&bg_color=0B1120&color=94A3B8&line=38BDF8&point=34D399&area=true&area_color=38BDF8&border_color=1E293B&radius=12" width="97%" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=Mahbodbe&background=0B1120&border=1E293B&stroke=1E293B&ring=38BDF8&fire=34D399&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&border_radius=12" width="68%" alt="GitHub Streak Stats" />
 </p>
 
 <details>
